@@ -1,5 +1,5 @@
 import React from 'react';
-import EmployeeContainer from "./Components/EmployeeContainer/EmployeeContainer"
+import EmployeeContainer from "./components/EmployeeContainer/EmployeeContainer"
 
 function App() {
   return (

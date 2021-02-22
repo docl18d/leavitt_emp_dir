@@ -1,5 +1,5 @@
 import React from 'react'
-import "./EmployeeTitles.css"
+import "../EmployeeTitles/EmployeeTitles"
 
 export default function EmployeeTitles(props) {
     return (
